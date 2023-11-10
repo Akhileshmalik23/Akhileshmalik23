@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍💻 All of my projects are available at [coming soon]
 
 - 💬 Ask me about **gsap**
 
