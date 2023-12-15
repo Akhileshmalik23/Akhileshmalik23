@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **portfolio website**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [coming soon]
 
