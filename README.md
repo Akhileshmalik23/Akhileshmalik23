@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhilesh</h1>
-<h3 align="center">I'm Akhilesh, a passionate front-end developer with a knack for C++ programming. Currently on a journey to explore the world of backend development. Welcome to my GitHub profile!</h3>
+<h3 align="center">I'm Akhilesh, a passionate front-end developer with a knack for C++ programming. Currently on a journey to explore the world of backend development. Welcome to my GitHub profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshmalik23&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshmalik23" /> </p>
 
