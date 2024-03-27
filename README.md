@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/Akhileshmalik23">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshmalik23&theme=radical&border=7F3FBF&background=0D1117" alt="Akhilesh's GitHub streak"/>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Akhileshmalik23&theme=dark&border_radius=15" alt="GitHub Streak" /></a>
   </a>
 </p>
 
