@@ -35,7 +35,7 @@
 
 <p align="center">
     <a href="https://github.com/Akhileshmalik23">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akhileshmalik23&theme=radical" alt="Akhilesh's GitHub Contribution"/>
+     <img  alt="Akhileshmalik23's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Akhileshmalik23?cardType=github&preferLogin=false&Background=151515&Text=FEFEFE&Title=FEFEFE&Ring=DD8431" /> 
     </a>
   </p>
   
