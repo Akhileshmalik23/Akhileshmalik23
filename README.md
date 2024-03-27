@@ -28,7 +28,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akhileshmalik23&show_icons=true&locale=en&layout=compact" alt="akhileshmalik23" /></p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
+  <a href="https://github.com/Akhileshmalik23">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshmalik23&theme=radical&border=7F3FBF&background=0D1117" alt="Akhilesh's GitHub streak"/>
   </a>
 </p>
@@ -41,5 +41,3 @@
   
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhileshmalik23&show_icons=true&locale=en" alt="akhileshmalik23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshmalik23&" alt="akhileshmalik23" /></p>
