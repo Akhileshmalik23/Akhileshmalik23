@@ -38,6 +38,4 @@
      <img  alt="Akhileshmalik23's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Akhileshmalik23?cardType=github&preferLogin=false&Background=151515&Text=FEFEFE&Title=FEFEFE&Ring=DD8431" /> 
     </a>
   </p>
-  
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhileshmalik23&theme=radical" alt="akhileshmalik23" /></p>
+ 
