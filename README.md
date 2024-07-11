@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [coming soon]
 
-- 💬 Ask me about **gsap**
+- 💬 Ask me about *gsap*
 
 - 📫 How to reach me **akhileshmalik908@gmail.com**
 
