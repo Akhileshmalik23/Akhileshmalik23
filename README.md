@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Akhilesh Malik</h1>
-<h3 align="center">Full-Stack Developer | MERN | Java | Open to Internships</h3>
+<h3 align="center">Full-Stack Developer | MERN | C++ | NEXT.JS | SQL | Open to Code</h3>
+<h2 align="left">🧠 Solving problems (and developing new ones internally)</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -14,7 +15,7 @@
 ### 🔍 About Me
 
 - 🎓 B.E. IT @ Maharaja Agrasen Institute of Technology (2022–2026)  
-- 💼 6+ months of internship experience as Full-Stack Developer  
+- 💼 4+ months of internship experience as Full-Stack Developer  
 - 💻 Tech Stack: JavaScript, TypeScript, React.js, Next.js, Node.js, MongoDB, SQL, Tailwind  
 - 💡 Currently diving into System Design & Dynamic Programming  
 - 📫 **akhileshmalik908@gmail.com** | 📍 Delhi, India
@@ -40,13 +41,6 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🥈 Runner-up – HWM Hackathon @ Microsoft, Gurugram  
-- 🏅 Finalist – NIT Patna Hackathon  
-- 🥉 2nd Place – GDSC Hackathon  
-
----
 
 ### 🧰 Tools I Use
 
@@ -54,16 +48,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,tailwind,git,github,vscode,firebase" />
 </p>
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akhileshmalik23&show_icons=true&theme=radical&hide=issues"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akhileshmalik23&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
----
 
 ### 🌐 Let's Connect
 
@@ -75,5 +60,33 @@
 
 ---
 
-> _“Don't compare your chapter 1 to someone else's chapter 10.”_ 📖  
-> _Always building. Always learning._ 🧠
+---
+
+### 📊 Weekly Developer Activity
+
+⏰ **Timezone:** Asia/Calcutta
+
+#### 💬 Languages:
+
+```text
+JavaScript     6 hrs 15 mins   ██████████████░░░░░░░░░░░   37.50%
+TypeScript     3 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   19.04%
+SQL            2 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   15.52%
+C++            2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   13.02%
+HTML/CSS       1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   10.50%
+
+```
+#### 💬 Languages:
+```
+YouTube        5 hrs 10 mins   ███████████░░░░░░░░░░░░░   35.5%
+ChatGPT        4 hrs  5 mins   █████████░░░░░░░░░░░░░░░   28.0%
+LeetCode       2 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░   17.2%
+LinkedIn       1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░   12.0%
+Claude         55 mins         ██░░░░░░░░░░░░░░░░░░░░░   7.3%
+
+```
+
+#### 💻 Operating Systems:
+```
+Windows       11 hrs 15 mins   █████████████████████████   100.0%
+```
