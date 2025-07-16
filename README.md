@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Akhilesh Malik</h1>
 <h3 align="center">Full-Stack Developer | MERN | C++ | NEXT.JS | SQL | Open to Code</h3>
-<h2 align="left">🧠 Solving problems (and developing new ones internally)</h2>
+<h2 align="right">Solving problems (and developing new ones instantly)</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black"/>
