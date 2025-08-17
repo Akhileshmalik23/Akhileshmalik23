@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Akhilesh Malik</h1>
+<h1 align="center">👋 Hi, I'm Akhilesh </h1>
 <h3 align="center">Full-Stack Developer | MERN | C++ | NEXT.JS | SQL | Open to Code</h3>
 <h2 align="right">Solving problems (and developing new ones instantly)</h2>
 
@@ -44,20 +44,30 @@
 
 ### 🧰 Tools I Use
 
+### 🧰 Tools I Use
+
+#### 🖥️ Languages
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts" /><br>
-  
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" /><br>
-  
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" /><br>
-  
-  <!-- DevOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" /><br>
-  
-  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts" />
+</p>
+
+#### ⚡ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
+
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+</p>
+
+#### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
+</p>
+
+#### 🔧 Tools & Productivity
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,slack,notion" />
 </p>
 
