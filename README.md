@@ -45,7 +45,37 @@
 ### 🧰 Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,tailwind,git,github,vscode,firebase" />
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts" /><br>
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" /><br>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" /><br>
+  
+  <!-- DevOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" /><br>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,slack,notion" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhileshmalik23&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhileshmalik23&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🏆 LeetCode Profile
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/akhileshmalik908?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 
@@ -56,37 +86,8 @@
   <a href="mailto:akhileshmalik908@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/akhileshmalik/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Akhileshmalik23"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/u/akhileshmalik908/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
 ---
 
----
-
-### 📊 Weekly Developer Activity
-
-⏰ **Timezone:** Asia/Calcutta
-
-#### 💬 Languages:
-
-```text
-JavaScript     6 hrs 15 mins   ██████████████░░░░░░░░░░░   37.50%
-TypeScript     3 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   19.04%
-SQL            2 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   15.52%
-C++            2 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   13.02%
-HTML/CSS       1 hr 45 mins    █████░░░░░░░░░░░░░░░░░░░░   10.50%
-
-```
-#### 💬 Languages:
-```
-YouTube        5 hrs 10 mins   ███████████░░░░░░░░░░░░░   35.5%
-ChatGPT        4 hrs  5 mins   █████████░░░░░░░░░░░░░░░   28.0%
-LeetCode       2 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░   17.2%
-LinkedIn       1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░   12.0%
-Claude         55 mins         ██░░░░░░░░░░░░░░░░░░░░░   7.3%
-
-```
-
-#### 💻 Operating Systems:
-```
-Windows       11 hrs 15 mins   █████████████████████████   100.0%
-```
